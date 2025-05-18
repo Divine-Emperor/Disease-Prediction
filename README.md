@@ -45,6 +45,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
    ```
    http://127.0.0.1:5000/
+   https://disease-prediction-59xk.onrender.com
    ```
 
 ---
