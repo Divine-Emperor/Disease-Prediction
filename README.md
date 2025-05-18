@@ -45,7 +45,6 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
    ```
    http://127.0.0.1:5000/
-   https://disease-prediction-59xk.onrender.com
    ```
 
 ---
@@ -64,6 +63,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 * **Tech Stack**: Python, Flask, Tailwind CSS
 * **GitHub**: [github.com/Divine-Emperor](https://github.com/Divine-Emperor)
 * **Email**: [Harshsharma.ic@gmail.com](mailto:harshsharma.ic@gmail.com)
+* **Website** [Disease-Prediction](https://disease-prediction-59xk.onrender.com)
 
 ---
 
